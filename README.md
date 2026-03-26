@@ -41,6 +41,13 @@ The goal was to identify growth patterns, regional distribution, and manufacture
 - electric_vehicle_analytics.xlsx → Dataset
 - Dashboard Screenshots → Visual Preview
 
+- ## How to Use This Project
+
+1. Download the dataset file
+2. Open the Power BI file (.pbix)
+3. Explore dashboards using filters and slicers
+4. Analyze trends across regions and manufacturers
+
 ## Author
 Mohammed Jasim  
 Aspiring Data Analyst
