@@ -17,6 +17,11 @@ The goal was to identify growth patterns, regional distribution, and manufacture
 - Growth trend visualization
 - KPI-based performance indicators
 
+
+## Dataset
+- Electric Vehicle dataset used for analysis
+- Data cleaned and transformed using Excel
+
 ## Dashboard Preview
 
 ### EV Overview Dashboard
@@ -24,10 +29,6 @@ The goal was to identify growth patterns, regional distribution, and manufacture
 
 ### EV Regional Analysis Dashboard
 ![EV Regional](ev-dashboard-regional-analysis.png)
-
-## Dataset
-- Electric Vehicle dataset used for analysis
-- Data cleaned and transformed using Excel
 
 ## Key Insights
 - Identified regions with highest EV adoption
